@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "330065655882",
+    "firebase_url": "https://igtec-android-studio-default-rtdb.firebaseio.com",
+    "project_id": "igtec-android-studio",
+    "storage_bucket": "igtec-android-studio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330065655882:android:d59c8c92c3e2f56eff8eb3",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330065655882-id1b4a3h4o5jg3ftg6qok7iofamo0p2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvRZQjS2cM6oLph7lAmlHnE8l88r0JuP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330065655882-id1b4a3h4o5jg3ftg6qok7iofamo0p2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
